@@ -12,6 +12,8 @@ out/
 *.iws
 *.ipr
 *.txt
+!**/plantiny.txt
+!**/plants.txt
 
 .idea/workspace.xml
 .idea/tasks.xml
